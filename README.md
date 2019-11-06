@@ -5,7 +5,7 @@ Current index (06.11.2019):
 
 * r_script_for_figure2.R ---- R script for creating Figure showing changes in the index of total biomass 
 * r_script_for_figure3.R ---- R script for creating Figure showing changes in age structured biomass
-* Rscript_Figure5andS6.R ---- R script for creating Figure showing ecological and fisheries indicators 
+* Rscript_Fig5andS6.R ------- R script for creating Figure showing ecological and fisheries indicators 
 * Rscript_FigureS2andS3.R --- R script for creating Figure showing changes in nitrogen (structural and residual)
 * Rscript_FigureS7S8andS9.R - R script for creating Figures showing predation responses 
 
