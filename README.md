@@ -1,15 +1,13 @@
 # MMEmanuscript477196
-Documents associated to manuscript 477196 on mass mortality events
+Documents associated to Olsen, E., Eide, C.H., Nilsen, I., Perryman, H.A. and Vikebø, F., 2019. Ecological effects and ecosystem shifts caused by mass mortality events on early life stages of fish. Frontiers in Marine Science, 6, p.669.
 
-We developed R scripts to produce figures for our manuscript
-"Ecological effects and ecosystem shifts caused by mass mortality events on early life stages of fish"
+Current index (06.11.2019):
 
-Current index (01.07.2019):
-
-* r_script_for_figure2.R  --- R script for creating Figure showing changes in the index of total biomass 
-* r_script_for_figure3.R  --- R script for creating Figure showing changes in age structured biomass
-* Rscript_Figure5.R       --- R script for creating Figure showing ecological and fisheries indicators 
+* r_script_for_figure2.R ---- R script for creating Figure showing changes in the index of total biomass 
+* r_script_for_figure3.R ---- R script for creating Figure showing changes in age structured biomass
+* Rscript_Figure5andS6.R ---- R script for creating Figure showing ecological and fisheries indicators 
 * Rscript_FigureS2andS3.R --- R script for creating Figure showing changes in nitrogen (structural and residual)
+* Rscript_FigureS7S8andS9.R - R script for creating Figures showing predation responses 
 
 Figure 4 was created using R-script developed by Kelli Johnson, Isaac Kaplan, and Gavin Fay for Olsen et al. (2018). This code has been published:
 https://github.com/r4atlantis/common_scenarios_analysis/tree/master/sept17
