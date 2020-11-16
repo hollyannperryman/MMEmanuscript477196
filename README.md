@@ -8,7 +8,8 @@ Current index (06.11.2019):
 * Rscript_Fig5andS6.R -- R script for creating Figure showing ecological and fisheries indicators 
 * Rscript_FigureS2andS3.R -- R script for creating Figure showing changes in nitrogen (structural and residual)
 * Rscript_FigureS7S8andS9.R -- R script for creating Figures showing predation responses 
-* - Update Nov. 2020 -
+
+- Update Nov. 2020 -
 * R_script_figures.R -- R script for processing play data to create figures from main text
 * input_files.zip -- input files needed to run R_script_figures.R
 * output_files.zip -- play data of output files needed to run R_script_figures.R
